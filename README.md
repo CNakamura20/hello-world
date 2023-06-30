@@ -1,1 +1,1 @@
-# hello-world
+#  este repositório foi criado para uma tarefa da Cubos Academy, chamado hello-world
